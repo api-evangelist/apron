@@ -1,0 +1,25 @@
+# Apron
+
+> Apron is a London, UK-based fintech that helps small businesses, accountants, and bookkeepers automate supplier payments, payroll, expenses, and collections. It captures invoices, batches and pays bills directly from a business bank account, and reconciles in real time with Xero and QuickBooks Online. Apron is an FCA-authorised Electronic Money Institution (firm reference 1004915) and ISO 27001 certified. Apron does not currently publish a public developer API; it integrates as a consumer of the Xero and QuickBooks accounting APIs.
+
+## Product
+- [Apron for owners](https://getapron.com/): Automate supplier payments, payroll, and expenses.
+- [Apron for accountants](https://getapron.com/accountants): Manage accounts payable for clients at scale.
+- [Pricing](https://getapron.com/pricing/owners): Plans and fees.
+
+## Docs
+- [Help Centre](https://support.getapron.com/en): Product help and how-to articles.
+- [Link your accounting software](https://support.getapron.com/en/articles/8842393-link-your-accounting-software): Connect Xero or QuickBooks.
+- [Security](https://getapron.com/security): ISO 27001, FCA authorisation, safeguarding, and security practices.
+
+## Company
+- [About](https://getapron.com/about): Company overview.
+- [Blog](https://blog.getapron.com): Product and company updates.
+- [Careers](https://getapron.com/careers): Open roles.
+
+## Account
+- [Sign in / Get started](https://app.getapron.com/auth): Log in or create an account.
+
+## Legal
+- [Terms and policies](https://getapron.com/terms-and-policies/apron-payments): Apron Payments terms.
+- [Privacy policy](https://getapron.com/terms-and-policies/privacy-policy): How Apron handles data.

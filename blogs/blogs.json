@@ -1,0 +1,14 @@
+{
+  "repo": "apron",
+  "feeds": [
+    {
+      "source": "https://support.getapron.com/en",
+      "feed_url": "https://support.getapron.com/en/feed.xml",
+      "title": "",
+      "saved": 11,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 11,
+  "fetched": "2026-08-01T15:49:00Z"
+}
